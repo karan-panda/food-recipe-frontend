@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://goodycs.com/static/assets/images/recipe-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    height: 100%;
+}
+
+.container {
+    background: rgb(229, 240, 235);
+    color: rgb(17, 1, 1);
+    max-width: 80%;
+    margin: auto;
+    border: 10px solid black;
+    border-radius: 8px;
+    position: relative;
+    opacity: 80%;
+    padding: 10px;
+    font-weight: bolder;
+    border: 1px solid rgb(9, 32, 2);
+}
+
+button {
+    border: 1px solid rgb(8, 2, 2);
+    background-color: rgb(204, 90, 14);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;  
+    color: rgb(255, 255, 255);
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    opacity: 1;
+}
