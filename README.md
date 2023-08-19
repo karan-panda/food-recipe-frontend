@@ -1,6 +1,6 @@
 # Frontend for Recipe Website
 
-## Live Demo: ![Live Demo link](https://food-recipe-frontend.netlify.app)
+## Live Demo: [Click here](https://food-recipe-frontend.netlify.app)
 ## Description
 This README provides an overview of the structure and content of your simple recipe website.
 This website is a platform for sharing a traditional Indian breakfast recipe called "Poha." It includes detailed information about the ingredients and instructions, as well as an embedded video tutorial. Users can also register through a sign-up form to receive updates or additional content related to the recipe.
